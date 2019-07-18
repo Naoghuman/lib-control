@@ -15,7 +15,7 @@ TODO
 
 
 #### Feature
-[5] [lib] Create basic library structure.
+#5 [lib] Create basic library structure.
 
 
 
@@ -28,7 +28,7 @@ TODO
 
 
 #### Documentation
-[3] [doc] Add new folder 'release' with a release template.
+#3 [doc] Add new folder 'release' with a release template.
 
 
 
