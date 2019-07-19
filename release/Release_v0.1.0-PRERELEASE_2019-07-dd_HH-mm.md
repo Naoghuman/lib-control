@@ -29,6 +29,7 @@ TODO
 
 #### Documentation
 #3 [doc] Add new folder 'release' with a release template.
+#2 [doc] Add new folder 'concept' with a concept template.
 
 
 
