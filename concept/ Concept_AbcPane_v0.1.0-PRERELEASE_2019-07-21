@@ -1,0 +1,50 @@
+--------------------------------------------------------------------------------
+CONCEPT <AbcPane>
+--------------------------------------------------------------------------------
+INTENTION
+This concept describes the layout component 'AbcPane'.
+
+The component serves as a presentation container for keywords that start with a
+specific letter.
+For example if the letter 'A' is associated with the container, then all keywords
+begin with the letter 'A' or 'a'.
+
+--------------------------------------------------------------------------------
+SPECIFICATION
+ - Name      : AbcPane
+ - Package   : org.naoghuman.lib.control.scene.layout.AbcPane
+ - Structure : The structure of the component is an HBox container with a Label
+               for the letter on the upper left side, while on the right side a
+               FlowPane is positioned.
+ - Additional: The developer has access to all three JavaFX components. This
+               makes it possible, among other things, to adapt the style sheet
+               of the components (colors, borders, effects) with CSS.
+
+--------------------------------------------------------------------------------
+EXAMPLE
+
+class AbcPane {
+  HBox     container;
+  Label    letter;
+  FlowPane keywords;
+  ...
+}
+
+--------------------------------------------------------------------------------
+LINKS
+ - ...
+
+--------------------------------------------------------------------------------
+EXTRAS
+ - ...
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+

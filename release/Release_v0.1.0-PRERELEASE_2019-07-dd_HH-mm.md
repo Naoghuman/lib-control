@@ -28,6 +28,7 @@ TODO
 
 
 #### Documentation
+#10 doc] Add new concept for a new control 'AbcPane'.
 #4 [doc] Add a license to the project + ReadMe.
 #3 [doc] Add new folder 'release' with a release template.
 #2 [doc] Add new folder 'concept' with a concept template.
